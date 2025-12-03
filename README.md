@@ -1,4 +1,4 @@
-Virat Kohli Career Statistics – Analysis Dashboard
+🏏 Virat Kohli Career Statistics – Analysis Dashboard
 
 This project is an interactive Power BI dashboard that visualizes the remarkable cricket career of Virat Kohli. It provides deep insights into his performance across formats, yearly trends, and key batting metrics.
 
@@ -74,8 +74,8 @@ Interact with slicers and charts to explore insights.
 
 📸 Dashboard Preview
 
-(Include the screenshot from your repository here)
-![Dashboard Screenshot](./assets/dashboard-screenshot.png)
+Screenshot of the dashboard
+![Dashboard Screenshot]([./assets/dashboard-screenshot.png](https://github.com/LTabhishek/Virat-Kohli-Dashboard/blob/main/Screenshot%20of%20Virat%20Kohli's%20carrer%20dashboard.png))
 
 💡 Future Enhancements
 
