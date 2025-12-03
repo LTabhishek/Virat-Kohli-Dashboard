@@ -75,7 +75,7 @@ Interact with slicers and charts to explore insights.
 📸 Dashboard Preview
 
 Screenshot of the dashboard
-(https://github.com/LTabhishek/Virat-Kohli-Dashboard/blob/main/Screenshot%20of%20Virat%20Kohli's%20carrer%20dashboard.png)
+![Dashboard Preview].(https://github.com/LTabhishek/Virat-Kohli-Dashboard/blob/main/Screenshot%20of%20Virat%20Kohli's%20carrer%20dashboard.png)
 
 💡 Future Enhancements
 
