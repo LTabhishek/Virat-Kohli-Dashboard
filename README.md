@@ -74,8 +74,7 @@ Interact with slicers and charts to explore insights.
 
 📸 Dashboard Preview
 
-Screenshot of the dashboard
-Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/LTabhishek/Virat-Kohli-Dashboard/blob/main/Screenshot%20of%20Virat%20Kohli's%20carrer%20dashboard.png)
+![Amazon Sales Dashboard](path_to_your_image)
 
 💡 Future Enhancements
 
